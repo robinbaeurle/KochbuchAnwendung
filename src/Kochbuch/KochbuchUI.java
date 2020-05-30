@@ -15,10 +15,9 @@ public class KochbuchUI extends JFrame {
         super();
         setTitle(ResourceBundle.getBundle(I18N_BundleBaseName, getLocale()).getString("title"));
 
-        // Read data from json file and parse into objects
+        // Read data from the json file and parse into objects
         RecipeParser recipeParser = new RecipeParser();
-        String recipesJsonFilePath = this.getClass().getResource("recipes.json").getPath();
-        List<Recipe> recipes = recipeParser.getRecipesFromJsonFile(recipesJsonFilePath);
+        List<Recipe> recipes = recipeParser.getRecipesFromJsonFile("recipes.json");
 
         // Initialize Layout
         JPanel mainContentPanel = new JPanel(new GridLayout(1, 3, 10, 50));

@@ -1,1 +1,2 @@
-# SoftwareEngineeringPortfolio
+# KochbuchAnwendung
+This Repository mainly contains the "Kochbuch" application created in the context of a portfolio which covers the topics of the module "Software Engineering" of the first year at DHBW University.

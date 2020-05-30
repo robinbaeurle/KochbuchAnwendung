@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Quäse - Magerquark",
+    "servings": 1,
+    "costEuro": 2.69,
+    "instructions": "1. Magerquark und Milch miteinander verrühren.\n2. Quäse in kleine Stückchen scheiden und unterheben.\n3. Schnittlauch klein hacken und ebenfalls unterheben.\n4. Mit Salz und Pfeffer würzen.\n",
+    "nutritionalData": {
+      "kcal": 596,
+      "protein": 120.9,
+      "carbs": 18.0,
+      "fat": 4.5
+    },
+    "ingredients": [
+      {
+        "name": "Quäse",
+        "quantity": 270.0,
+        "unit": "g"
+      },
+      {
+        "name": "Magerquark (<10% Fett)",
+        "quantity": 260.0,
+        "unit": "g"
+      },
+      {
+        "name": "Schnittlauch",
+        "quantity": 0.75,
+        "unit": "Bund"
+      },
+      {
+        "name": "Milch (fettarm 1,5% Fett)",
+        "quantity": 125.0,
+        "unit": "ml"
+      },
+      {
+        "name": "Pfeffer (schwarz), Jod-Salz",
+        "quantity": 1.0,
+        "unit": "Prise"
+      }
+    ]
+  },
+  {
+    "name": "Schäfersalat",
+    "servings": 1,
+    "costEuro": 4.91,
+    "instructions": "1. Zwiebel in Streifen schneiden.\n2. Nach Belieben in etwas Salz und Zitrone einlegen.\n3. Salatgurke längs vierteln und in Scheiben schneiden.\n4. Tomate und Paprika kleinschneiden.\n5. Alles in eine große Schüssel geben.\n6. Petersilie und Oliven beifügen.\n7. Nach Belieben mit Öl und Zitrone begießen.\n8. Zum Schluss mit Salz und Pfeffer würzen.\n9. Mit Schafskäse bestreuen.\n",
+    "nutritionalData": {
+      "kcal": 855,
+      "protein": 39.4,
+      "carbs": 61.7,
+      "fat": 48.7
+    },
+    "ingredients": [
+      {
+        "name": "Salatgurke",
+        "quantity": 1.0,
+        "unit": "Stueck"
+      },
+      {
+        "name": "Tomaten",
+        "quantity": 3.0,
+        "unit": "Stueck"
+      },
+      {
+        "name": "Paprikas (rot)",
+        "quantity": 2.5,
+        "unit": "Stueck"
+      },
+      {
+        "name": "Zwiebeln",
+        "quantity": 2.5,
+        "unit": "Stueck"
+      },
+      {
+        "name": "Zitronen",
+        "quantity": 1.5,
+        "unit": "Stueck"
+      },
+      {
+        "name": "Petersilie",
+        "quantity": 1.25,
+        "unit": "Bünde"
+      },
+      {
+        "name": "Oliven (schwarz)",
+        "quantity": 61.0,
+        "unit": "g"
+      },
+      {
+        "name": "Schafskäse (light)",
+        "quantity": 120.0,
+        "unit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "quantity": 2.0,
+        "unit": "EL"
+      },
+      {
+        "name": "Jod-Salz, Pfeffer (schwarz)",
+        "quantity": 1.0,
+        "unit": "Prise"
+      }
+    ]
+  },
+  {
+    "name": "Schnelle Mandelmilch",
+    "servings": 1,
+    "costEuro": 0.72,
+    "instructions": "1. Kochendes Wasser mit dem Mus und den Gewürzen auf höchster Stufe 30-60 sek mixen.\n2. Milchgemisch in ein Glas füllen und kurz abkühlen lassen.\n",
+    "nutritionalData": {
+      "kcal": 226,
+      "protein": 4.8,
+      "carbs": 9.1,
+      "fat": 18.3
+    },
+    "ingredients": [
+      {
+        "name": "Mandelmus",
+        "quantity": 32.0,
+        "unit": "g"
+      },
+      {
+        "name": "Wasser (still)",
+        "quantity": 2.25,
+        "unit": "Tassen"
+      },
+      {
+        "name": "Jod-Salz, Zimt",
+        "quantity": 1.0,
+        "unit": "Prise"
+      }
+    ]
+  },
+  {
+    "name": "Köstliches Porridge",
+    "servings": 1,
+    "costEuro": 0.9,
+    "instructions": "1. Breiten Topf mit Milch, Haferflocken und den Nüssen befüllen.\n2. Dann langsam erhitzen und 10 min köcheln lassen.\n3. Nach 5 min Beeren zugeben.\n4. Nun Apfel zerkleinern.\n5. Wenn die Kochzeit um ist, den Brei mit Zimt bestreuen und den Apfel mit dem Orangensaft untermengen.\n6. Kurz abkühlen lassen und genießen.\n",
+    "nutritionalData": {
+      "kcal": 694,
+      "protein": 21.3,
+      "carbs": 89.2,
+      "fat": 26.7
+    },
+    "ingredients": [
+      {
+        "name": "Milch (fettarm 1,5% Fett)",
+        "quantity": 130.0,
+        "unit": "ml"
+      },
+      {
+        "name": "Mandeln",
+        "quantity": 30.0,
+        "unit": "g"
+      },
+      {
+        "name": "Haferflocken (Vollkorn)",
+        "quantity": 90.0,
+        "unit": "g"
+      },
+      {
+        "name": "Apfel",
+        "quantity": 1.0,
+        "unit": "Stueck"
+      },
+      {
+        "name": "Orangensaft (100% Frucht)",
+        "quantity": 50.0,
+        "unit": "ml"
+      },
+      {
+        "name": "Himbeeren",
+        "quantity": 30.0,
+        "unit": "g"
+      },
+      {
+        "name": "Zimt",
+        "quantity": 1.0,
+        "unit": "Prise"
+      }
+    ]
+  }
+]
